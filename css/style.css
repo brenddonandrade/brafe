@@ -120,4 +120,23 @@ a.menu-logo {
 
 .sobre-item h3 {
   font-size: 2.25em;
+  background: #252525;
+  line-height: 1em;
+  width: 220px;
+  color: #fff;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+  padding: 5px 0px 10px 0px;
+  position: relative;
+  top: -25px;
+}
+
+.sobre > p {
+  font-size: 1.25em;
+  line-height: 1.4;
+  font-style: italic;
+  text-align: center;
+  margin: 20px auto;
+  max-width: 460px;
 }
